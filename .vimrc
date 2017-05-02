@@ -3,4 +3,3 @@ set autoindent
 filetype indent on
 set cursorline
 syntax on
-colorscheme evening 

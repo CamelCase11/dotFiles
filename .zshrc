@@ -1,3 +1,4 @@
+source /etc/zshrc
 alias pkgi='sudo apt install'
 alias pkgr='sudo apt purge'
 alias pkgs='apt search'
