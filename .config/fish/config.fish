@@ -1,0 +1,6 @@
+alias pkgi='sudo pacman -S'
+alias pkgr='sudo pacman -Runs'
+alias pkgs='pacman -Ss'
+alias pkgup='sudo pacman -Syu'
+alias l='ls -lshF'
+alias tar='bsdtar'
