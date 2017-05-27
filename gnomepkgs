@@ -1,6 +1,5 @@
 adwaita-icon-theme
 eog
-evince
 gdm
 gnome-backgrounds
 gnome-calculator
@@ -38,7 +37,5 @@ mpv
 file-roller
 gedit
 gedit-code-assistance
-gitg
-gnome-photos
 gnome-tweak-tool
 nautilus-sendto
